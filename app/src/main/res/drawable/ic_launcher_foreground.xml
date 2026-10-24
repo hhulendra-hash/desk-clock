@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Desk Clock Ring -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,24C37.43,24 24,37.43 24,54C24,70.57 37.43,84 54,84C70.57,84 84,70.57 84,54C84,37.43 70.57,24 54,24ZM54,77C41.3,77 31,66.7 31,54C31,41.3 41.3,31 54,31C66.7,31 77,41.3 77,54C77,66.7 66.7,77 54,77Z" />
+    <!-- Top Alarm / Desk Stand Ears -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M35,21L47,21C48.66,21 50,22.34 50,24L32,24C32,22.34 33.34,21 35,21ZM61,21L73,21C74.66,21 76,22.34 76,24L58,24C58,22.34 59.34,21 61,21Z" />
+    <!-- Clock Hands (Precision Study Timer) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M51.5,38L56.5,38L56.5,53L67,59.5L64.5,63.8L51.5,55.5Z" />
+    <!-- Hydration Droplet Badge -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M73,62C73,62 81,71.2 81,76.5C81,80.92 77.42,84.5 73,84.5C68.58,84.5 65,80.92 65,76.5C65,71.2 73,62 73,62Z" />
+</vector>

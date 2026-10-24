@@ -1,0 +1,6 @@
+{
+  "name": "ChronoStudy",
+  "description": "Intelligent student desk-clock and study routine engine that transforms unstructured study goals into optimized military-time schedules with hydration alerts, eye-rest cues, TTS voice announcements, and strict JSON export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

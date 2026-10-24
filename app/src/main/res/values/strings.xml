@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChronoStudy</string>
+    <string name="header_subtitle">Intelligent Student Desk-Clock &amp; Routine Engine</string>
+    <string name="nav_desk_clock">Desk Clock</string>
+    <string name="nav_routine_engine">Routine Engine</string>
+    <string name="nav_json_output">JSON Schema</string>
+    <string name="nav_saved_routines">Saved</string>
+    <string name="clock_mode_24h">24H MILITARY</string>
+    <string name="tts_ready_status">TTS Voice Ready</string>
+    <string name="tts_muted_status">TTS Muted</string>
+    <string name="btn_generate_schedule">Generate Optimized Timetable</string>
+    <string name="btn_generating_schedule">Calculating Sequential Timetable…</string>
+    <string name="btn_speak_tts">Speak TTS Reminder</string>
+    <string name="btn_copy_json">Copy Strict JSON</string>
+    <string name="btn_save_routine">Save Routine</string>
+    <string name="btn_start_block">Start Block</string>
+    <string name="btn_pause_block">Pause</string>
+    <string name="btn_resume_block">Resume</string>
+    <string name="btn_next_block">Next Block</string>
+    <string name="btn_prev_block">Previous Block</string>
+    <string name="btn_reset_block">Reset Timer</string>
+    <string name="label_unstructured_prompt">Unstructured Study Brief</string>
+    <string name="hint_unstructured_prompt">Describe your available hours, subjects/tasks, priorities, break preferences, target exams, and energy levels…</string>
+    <string name="label_start_time">Start Time (HH:mm)</string>
+    <string name="label_quick_presets">Quick Scenario Presets</string>
+    <string name="label_routine_summary">Routine Summary</string>
+    <string name="metric_study_minutes">Study Min</string>
+    <string name="metric_break_minutes">Break Min</string>
+    <string name="metric_hydration_count">Hydration Checks</string>
+    <string name="badge_hydration_alert">Hydrate + Eye Rest</string>
+    <string name="security_prototype_notice">Prototype Note: Uses Gemini API via BuildConfig or deterministic local schedule engine. Configure GEMINI_API_KEY in AI Studio Secrets for cloud AI generation.</string>
+    <string name="empty_saved_routines">No saved study routines yet. Generate and save a timetable from the Routine Engine tab.</string>
+</resources>
